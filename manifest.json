@@ -1,0 +1,20 @@
+{
+	"action": {
+		"default_icon": "images/video.png"
+	},
+	"content_scripts": [
+		{
+			"matches": [
+				"<all_urls>"
+			],
+			"run_at": "document_end",
+			"js": [
+				"content-script.js"
+			]
+		}
+	],
+	"description": "网站视频播放设置快捷键",
+	"manifest_version": 3,
+	"name": "Video-Shortcut",
+	"version": "1.0"
+}
