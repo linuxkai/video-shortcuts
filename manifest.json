@@ -15,6 +15,7 @@
 		}
 	],
 	"description": "网站视频播放设置快捷键,还可以设置网站白名单.",
+	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgZt1AaGBvVOIfNQDFqexepV5DcJq/fr0K5OmWd+UlGp1nr7lYgGbSeuhgVCrW7yTtE18o5UpXJCw5BIj0hmV5WOhe9EAxe2B+jIF2OABTFZle4l0MJgo8rLo9NQKav14AruPcKWq5Te5Vcu2ezxD99NByOL19UDVvWV3LpiX7O986M2iVK7IweO62mPwZW5CGYP34lJN6Y0vcV6j8OLCZ1GUt3Vqzx0KH+BsJYRyiqDSK8/d31o0DmHUm7TIaNSO2+so+3Gj6owcWl2Q1Q80fF4SCHGiDEHUmtW1vnnvIhgHDp0PlKYBxvpMqu9ZOfz2MqGpyKEYSbz8I2ih0UnYawIDAQAB",
 	"manifest_version": 3,
 	"name": "Video-Shortcut",
 	"permissions": [
